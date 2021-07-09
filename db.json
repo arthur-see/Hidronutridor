@@ -28,35 +28,5 @@
 		"name": "Phyllis Vance",
 		"title": "Saleswoman",
 		"salary": 65000
-	},
-	{
-		"id": 19523,
-		"name": "Karen Filippeli",
-		"title": "Saleswoman",
-		"salary": 65000
-	},
-	{
-		"id": 18349,
-		"name": "Toby Flenderson",
-		"title": "Human Resources Representative",
-		"salary": 60000
-	},
-	{
-		"id": 11853,
-		"name": "Michael Scott",
-		"title": "Regional Manager",
-		"salary": 70000
-	},
-	{
-		"id": 14821,
-		"name": "Pam Beasley",
-		"title": "Secretary",
-		"salary": 45000
-	},
-	{
-		"id": 15834,
-		"name": "Jim Halpert",
-		"title": "Salesman",
-		"salary": 65000
 	}
 ]
