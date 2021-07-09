@@ -64,19 +64,19 @@
 	"readings":[
 			{
 			  "title": "Readings Today",
-			  "reading": [423, 446, 675, 510, 590, 610, 760, 639],
+			  "value": [423, 446, 675, 510, 590, 610, 760, 639],
 			  "color": "cyan",
 			  "timestamp": ["6AM", "8AM", "9AM", "10AM", "12PM", "2PM", "4PM", "6PM"]
 		 	},
 			{
 			  "title": "Readings This Month",
-			  "reading": [325, 123, 273, 573],
+			  "value": [325, 123, 273, 573],
 			  "color": "teal",
 			  "timestamp": ["Week 1", "Week 2", "Week 3", "Week 4"]
 			},
 			{
 			  "title": "Readings This Year",
-			  "reading": [746, 415, 943, 1372, 983, 651, 837, 639],
+			  "value": [746, 415, 943, 1372, 983, 651, 837, 639],
 			  "color": "green",
 			  "timestamp": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug"]
 			 }
